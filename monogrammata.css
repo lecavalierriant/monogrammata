@@ -11,3 +11,5 @@ img {
 	height: 100px;
 	filter: invert(1);
 }
+.deux img {height: 50px;}
+.quatre img {height: 25px;}
