@@ -15,3 +15,6 @@ img {
 }
 .deux img {height: 50px;}
 .quatre img {height: 25px;}
+@media (min-width: 500px) {body {font-size: 250%;}}
+@media (min-width: 1000px) {body {font-size: 150%;}}
+@media (min-width: 1500px) {body {font-size: 100%;}}
