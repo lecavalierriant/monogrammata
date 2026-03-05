@@ -16,6 +16,24 @@ img {
 .deux img {height: 50px;}
 .quatre img {height: 25px;}
 
-@media (min-width: 500px) {body {font-size: 250%;}}
-@media (min-width: 1000px) {body {font-size: 150%;}}
+@media (min-width: 500px) {
+
+body {font-size: 250%;}
+
+img {height: 300px;}
+.deux img {height: 150px;}
+.quatre img {height: 75px;}
+
+}
+
+@media (min-width: 1000px) {
+
+body {font-size: 150%;}
+
+img {height: 100px;}
+.deux img {height: 50px;}
+.quatre img {height: 25px;}
+
+}
+
 @media (min-width: 1500px) {body {font-size: 100%;}}
