@@ -31,7 +31,10 @@ img {height: 300px;}
 .deux img {height: 150px;}
 .quatre img {height: 75px;}
 
-.lacuna {height: 310.67px;}
+.lacuna {
+	height: 310.67px;
+	width: 300px;
+}
 
 }
 
