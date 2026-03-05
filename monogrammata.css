@@ -15,6 +15,11 @@ img {
 }
 .deux img {height: 50px;}
 .quatre img {height: 25px;}
+.lacuna img {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
 
 .lacuna {
 	position: relative;
@@ -28,11 +33,6 @@ body {font-size: 250%;}
 img {height: 300px;}
 .deux img {height: 150px;}
 .quatre img {height: 75px;}
-.lacuna img {
-	position: absolute;
-	top: 0;
-	left: 0;
-}
 
 }
 
