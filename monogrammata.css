@@ -58,4 +58,15 @@ table {font-size: 100%;}
 
 }
 
-@media (min-width: 1500px) {body {font-size: 100%;}}
+@media (min-width: 1500px) {
+
+body {font-size: 175%;}
+
+img {height: 150px;}
+
+.lacuna {
+	height: 158px;
+	width: 150px;
+}
+
+}
