@@ -14,8 +14,8 @@ img {
 	height: 100px;
 	filter: invert(1);
 }
-.deux img {height: 50px;}
-.quatre img {height: 25px;}
+.duo img {height: 50px;}
+.quattuor img {height: 25px;}
 .lacuna img {
 	position: absolute;
 	top: 0;
@@ -31,8 +31,8 @@ table {font-size: 150%;}
 body {font-size: 250%;}
 
 img {height: 300px;}
-.deux img {height: 150px;}
-.quatre img {height: 75px;}
+.duo img {height: 150px;}
+.quattuor img {height: 75px;}
 
 .lacuna {
 	height: 310.67px;
@@ -46,8 +46,8 @@ img {height: 300px;}
 body {font-size: 150%;}
 
 img {height: 100px;}
-.deux img {height: 50px;}
-.quatre img {height: 25px;}
+.duo img {height: 50px;}
+.quattuor img {height: 25px;}
 
 table {font-size: 100%;}
 
