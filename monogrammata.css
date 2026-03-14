@@ -32,7 +32,10 @@ table {font-size: 150%;}
 
 @media (min-width: 500px) {
 
-body {font-size: 250%;}
+body {
+	font-size: 250%;
+	margin: 0 50px 0 50px;
+}
 
 img {height: 300px;}
 .duo img {height: 150px;}
