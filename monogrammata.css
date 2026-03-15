@@ -23,7 +23,7 @@ img {
 .lacuna img {
 	position: absolute;
 	top: 0;
-	left: 0;
+	transform: translateX(-50%);
 }
 
 table {font-size: 150%;}
