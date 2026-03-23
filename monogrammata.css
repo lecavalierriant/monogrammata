@@ -32,6 +32,8 @@ table {font-size: 150%;}
 
 .lacuna {position: relative;}
 
+span {text-decoration-line: overline;}
+
 @media (min-width: 500px) {
 
 a {font-style: italic;}
