@@ -31,10 +31,7 @@ img {
 table {font-size: 150%;}
 
 .lacuna {position: relative;}
-.testimonium {
-	color: cyan;
-	font-variant: small-caps;
-}
+.testimonium {color: cyan;}
 .capitis {font-variant: small-caps;}
 
 span {text-decoration-line: overline;}
