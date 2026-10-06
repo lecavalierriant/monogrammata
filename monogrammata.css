@@ -58,7 +58,10 @@ img {height: 300px;}
 
 @media (min-width: 1000px) {
 
-body {font-size: 150%;}
+body {
+	font-size: 150%;
+	margin: 0 300px 0 300px;
+}
 
 img {height: 100px;}
 .duo img {height: 50px;}
