@@ -18,7 +18,7 @@ iframe {
 
 img {
 	height: 100px;
-	filter: invert(1);
+	filter: invert(1) drop-shadow(1px 1px 1px #000);
 }
 .duo img {height: 50px;}
 .quattuor img {height: 25px;}
